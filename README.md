@@ -7,18 +7,18 @@ a demo for ureport2
 
 >UReport2是第一款基于Apache-2.0开源协议的中式报表引擎，Github地址：https://github.com/youseries/ureport，欢迎大家前去fork、star。
 
-#demo项目创建
+# demo项目创建
 参考教程http://wiki.bsdn.org/display/UR/ureport2+Home
-![](docs/images/project.png)
+![]![](docs/images/project.png)
 
-#tomcat部署
->打包过程在此不讲，有兴趣或疑问请自行检索检查
->将war包命名为ureport2-demo.war并复制到tomcat的webapps路径下
+# tomcat部署
+> 打包过程在此不讲，有兴趣或疑问请自行检索检查
+> 将war包命名为ureport2-demo.war并复制到tomcat的webapps路径下
 ![](docs/images/tomcatDeploymentStep1.png)
 
->tomcat的bin路径下双击startup.up文件启动项目
+> tomcat的bin路径下双击startup.up文件启动项目
 ![](docs/images/tomcatDeploymentStep2.png)
 
->启动tomcat之后在浏览器地址栏中输入ureport的访问地址
+> 启动tomcat之后在浏览器地址栏中输入ureport的访问地址
 http://localhost:8080/ureport2-demo/ureport/designer
 ![](docs/images/designer.png)
