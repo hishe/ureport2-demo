@@ -9,7 +9,7 @@ a demo for ureport2
 
 # demo项目创建
 参考教程http://wiki.bsdn.org/display/UR/ureport2+Home
-![]![](docs/images/project.png)
+![](docs/images/project.png)
 
 # tomcat部署
 > 打包过程在此不讲，有兴趣或疑问请自行检索检查
