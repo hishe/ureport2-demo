@@ -8,7 +8,10 @@
     </listener>
     <context-param>
         <param-name>contextConfigLocation</param-name>
+		<!-- 加载方式1-->
         <param-value>classpath:ureport-console-context.xml</param-value>
+		<!-- 加载方式2 -->
+		<!-- <param-value>/WEB-INF/context.xml</param-value> -->
     </context-param>
     <servlet>
         <servlet-name>ureportServlet</servlet-name>

@@ -39,6 +39,7 @@
         </repository>
     </repositories>
     <build>
+	    <finalName>ureport2-demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
