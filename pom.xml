@@ -11,7 +11,6 @@
 
     <properties>
         <ureport2-console-version>2.2.9</ureport2-console-version>
-        <jetty.version>8.1.16.v20140903</jetty.version>
     </properties>
 
     <dependencies>
